@@ -1,0 +1,14 @@
+so first you will have to go to this website and get your unique (website ) link 
+webhook.site 
+it will launch a website with get request 
+
+then connect the raspberry pi on targets pc
+
+it will send a post request on the website 
+
+
+you can see the post request in the website that you first opened ( from where you got the link )
+NOT on the unique (blank) website 
+
+
+important *on line 21 , replace the website link with YOUR UNIQUE LINK*  
