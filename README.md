@@ -1,4 +1,4 @@
-# Raspberry Pi Pico W as a Rubber Ducky
+   # Raspberry Pi Pico W as a Rubber Ducky
 
 ## Raspberry Pi Pico W
 The Raspberry Pi Pico W is a microcontroller board based on the RP2040 chip, with built-in WiFi support. It's lightweight, affordable, and perfect for DIY projects and automation.
