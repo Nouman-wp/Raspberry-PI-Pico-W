@@ -71,7 +71,8 @@ Follow these 5 simple steps to turn your **Raspberry Pi Pico W** into a Rubber D
 
 ## Disclaimer
 This project is for **educational purposes only**. Use responsibly and ensure you have permission to test devices.
-**Note:** Some of the files in this repository are not owned by me and belong to their respective owners.
+
+ **Note:** Some of the files in this repository are not owned by me and belong to their respective owners.
 
 ---
 
